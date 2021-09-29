@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712737673147",
+    "project_id": "scanno-e2ba3",
+    "storage_bucket": "scanno-e2ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712737673147:android:903d918f04ecdc43333e9e",
+        "android_client_info": {
+          "package_name": "com.Ask.scanno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712737673147-dvl0cg3cbtufv0atl67jllv68hc9ph39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ZqjrBDSN9mLmyKVaHUNYx3vtlrJJx9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712737673147-dvl0cg3cbtufv0atl67jllv68hc9ph39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
